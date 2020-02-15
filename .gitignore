@@ -1,5 +1,5 @@
 Win32/
-sdk/macos/
+sdk/macos/*.framework/
 debug/
 release/
 *.sdf
